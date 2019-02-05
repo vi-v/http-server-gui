@@ -1,7 +1,7 @@
 #directories
 bower_components
 node_modules
-# dist
+dist
 
 #files
 *.tgz
